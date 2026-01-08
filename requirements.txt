@@ -1,0 +1,12 @@
+--index-url https://download.pytorch.org/whl/cu128
+torch
+torchvision
+torchaudio
+
+transformers
+datasets
+scikit-learn
+pyyaml
+numpy
+pandas
+pyarrow
